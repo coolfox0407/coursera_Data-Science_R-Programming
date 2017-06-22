@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 
-## This assigment is a part of coursera's "Data Science: R Programming" module
+## This assigment is part of coursera's "Data Science: R Programming" module
 ## Week 3 assignment
 ## Description: This function creates a special "matrix" object that can cache its inverse
 
